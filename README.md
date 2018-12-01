@@ -16,7 +16,7 @@ Select Java Project location browse to technical-round-question Folder then Fini
 
 # How To Run
 
-Right click on the java file(eg.Armstrong.java
+Right click on the java file(eg.Armstrong.java)
 
 Run as->Java Application
 
